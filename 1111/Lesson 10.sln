@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingRoomSetting", "MeetingRoomSetting\MeetingRoomSetting.csproj", "{F6307F2D-0220-4F99-A698-E713000D8B48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeetingRoomSetting", "Task 1\MeetingRoomSetting.csproj", "{DA100A4D-B236-4C08-907C-4F5A8677B677}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F6307F2D-0220-4F99-A698-E713000D8B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F6307F2D-0220-4F99-A698-E713000D8B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F6307F2D-0220-4F99-A698-E713000D8B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F6307F2D-0220-4F99-A698-E713000D8B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA100A4D-B236-4C08-907C-4F5A8677B677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA100A4D-B236-4C08-907C-4F5A8677B677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA100A4D-B236-4C08-907C-4F5A8677B677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA100A4D-B236-4C08-907C-4F5A8677B677}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4E1FB55D-8DEC-4058-AEEF-30C3BD52612A}
+		SolutionGuid = {7A31E376-4B72-4C49-B372-FA449852A7EB}
 	EndGlobalSection
 EndGlobal
